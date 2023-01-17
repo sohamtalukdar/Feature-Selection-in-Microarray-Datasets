@@ -1,8 +1,8 @@
 # Feature-Selection-in-Microarray-Datasets
 
-*NB: This project is a part of ongoing Application of Functional Renal MRI to improve the assessment of chronic kidney disease (AFiRM) study. The dataset used in this project contains MRI images of kidneys taken from live voluntary subjects.*
+*NB: This project is a part of the coursework in BigData.*
 
-[The report for this project can be found here](https://github.com/sohamtalukdar/Segmentation-of-Kidneys-in-MRI/blob/main/Report.pdf)
+[The report for this project can be found here](https://github.com/sohamtalukdar/Feature-Selection-in-Microarray-Datasets/blob/main/The-Data-Transformers.pdf)
 
 
 
